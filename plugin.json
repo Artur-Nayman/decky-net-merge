@@ -1,0 +1,11 @@
+{
+  "name": "Net Merge",
+  "author": "Artur Nayman",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["network", "downloads", "root"],
+    "description": "Use Wi-Fi, USB Ethernet and phone tethers at the same time to speed up Steam downloads. Wraps net-merge.",
+    "image": "https://opengraph.githubassets.com/1/Artur-Nayman/decky-net-merge"
+  }
+}
